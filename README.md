@@ -22,13 +22,13 @@ Using live-cell TIRF microscopy in RBL mast cells, we discovered:
 ---
 
 ## 📁 Repository Structure
-📦 project-root/
-├── 📂 data/                 # Raw and processed TIRF image data
-├── 📂 scripts/              # Image analysis and quantification scripts (Python / MATLAB)
-├── 📂 figures/              # Final and intermediate figure panels
-├── 📂 notebooks/            # Jupyter notebooks for reproducing key analyses
-├── 📄 environment.yml       # Conda environment for dependencies
-└── 📄 README.md             # This file
+project-root/
+├── data/               # Raw and processed TIRF image data
+├── scripts/            # Image analysis and quantification scripts (Python / MATLAB)
+├── figures/            # Final and intermediate figure panels
+├── notebooks/          # Jupyter notebooks for reproducing key analyses
+├── environment.yml     # Conda environment for dependencies
+└── README.md           # This file
 
 ---
 
