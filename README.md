@@ -1,5 +1,5 @@
-# PI4P-wave-analysis
-# Rate of PI(4)P Synthesis Tunes Plasma Membrane PI(4,5)P₂ and Rho GTPase Oscillations
+# 2025-Xu-et-al
+# Distinct impact of PI(4)P flux in regulating PI(4,5)P$_2$ steady states and oscillations
 
 This repository contains data, code, and analysis supporting our manuscript:
 
