@@ -3,7 +3,7 @@
 
 This repository contains data, code, and analysis supporting our manuscript:
 
-> **Title:** _Rate of PI(4)P Synthesis Controls PI(4,5)P₂ and Cdc42 Oscillations at the Plasma Membrane_  
+> **Title:** _Distinct impact of PI(4)P flux in regulating PI(4,5)P$_2$ steady states and oscillations_  
 > **Authors:** [XJ Xu], [Chee San Tong], [Min Wu].  
 > **Status:** Submitted to *Journal*  
 > **Preprint:** [arXiv link (if available)]
@@ -12,11 +12,11 @@ This repository contains data, code, and analysis supporting our manuscript:
 
 ## 🔬 Summary
 
-Phosphatidylinositol 4,5-bisphosphate [PI(4,5)P₂] is a key signaling lipid that defines the inner leaflet of the eukaryotic plasma membrane. Although PI(4)P is its canonical precursor, previous studies showed that PI(4,5)P₂ levels remain unexpectedly robust under PI(4)P depletion—a puzzle known as the **PIP₂ paradox**.
+Phosphatidylinositol 4,5-bisphosphate [PI(4,5)P₂] is a key signaling lipid that defines the inner leaflet of the eukaryotic plasma membrane. Although PI(4)P is its canonical precursor, previous studies showed that PI(4,5)P₂ levels remain unexpectedly robust under PI(4)P depletion.
 
 Using live-cell TIRF microscopy in RBL mast cells, we discovered:
-- **Periodic traveling waves of PI(4)P** at the plasma membrane, challenging the assumption that precursor lipids exist only in steady state.
-- **Causal links** between the rate of PI(4)P synthesis and oscillations in both PI(4,5)P₂ and active **Cdc42**, a regulator of the actin cytoskeleton.
+- First discovery of **periodic traveling waves of PI(4)P** at the plasma membrane, challenging the assumption that precursor lipids exist only in steady state.
+- **Critical**rate of PI(4)P synthesis required for oscillations in both PI(4,5)P₂ and active **Cdc42**, a regulator of the actin cytoskeleton.
 - **Quantitative insights** into lipid-driven cortical dynamics, pointing to a dynamical-systems view of membrane identity.
 
 ---
