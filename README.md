@@ -1,9 +1,9 @@
 # 2025-Xu-et-al
-# Distinct impact of PI(4)P flux in regulating PI(4,5)P$_2$ steady states and oscillations
+# Distinct impact of PI(4)P flux in regulating PI(4,5)P₂ steady states and oscillations
 
 This repository contains data, code, and analysis supporting our manuscript:
 
-> **Title:** _Distinct impact of PI(4)P flux in regulating PI(4,5)P$_2$ steady states and oscillations_  
+> **Title:** _Distinct impact of PI(4)P flux in regulating PI(4,5)P₂ steady states and oscillations_  
 > **Authors:** [XJ Xu], [Chee San Tong], [Min Wu].  
 > **Status:** Submitted to *Journal*  
 > **Preprint:** [arXiv link (if available)]
